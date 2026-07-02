@@ -14,3 +14,7 @@ A simple Simon Says Game built using **HTML, CSS, and JavaScript**.
 - HTML
 - CSS
 - JavaScript
+
+  ## 🌐 Live Demo
+
+👉 https://shibnath-maity.github.io/simon-game/
